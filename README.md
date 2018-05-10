@@ -5,17 +5,26 @@ By analyzing the next-letter pairings of a large body of reference text and perf
 
 **Points of interest:**
 
-Report.pdf - *our final report* \n
+Report.pdf - *our final report*
+
 Identification Results.pdf - *the identification results from running a collection of sample text through our programs*
+
 LinearitySVDshort.mlx - *MATLAB code used to guess the language of each text*
 
 
 LinearitySVDFinal.mlx - *Same as -short, but makes graphs of reference data*
+
 SVDProjectTesting.mlx - *Implementing SVD in MATLAB the longer way*
+
 adjacencyMatrix.py - *Used to generate letter adjacency data from text files*
+
 Graphs - *Graphs of the first & second singular vector plots for the reference data*
+
 Reference Texts - *Reference text in each language*
+
 Unknown Texts - *Sample files which we identified the lanuguage of*
+
 README.md - *You are here*
+
 
 ~ Jane Sieving & Sabrina Pereira, Spring 2018 ~
