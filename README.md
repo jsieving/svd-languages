@@ -4,7 +4,8 @@ This is the repository for our Linearity final project at Olin College.
 By analyzing the next-letter pairings of a large body of reference text and performing singular value decomposition on this data, we were able to identify the best match language of an arbitrary text.
 
 **Points of interest:**
-Report.pdf - *our final report*
+
+Report.pdf - *our final report* \n
 Identification Results.pdf - *the identification results from running a collection of sample text through our programs*
 LinearitySVDshort.mlx - *MATLAB code used to guess the language of each text*
 
